@@ -13,7 +13,7 @@ setuptools.setup(
   long_description = 'oss-dec calculator python module',
   long_description_content_type = 'text/markdown',
   classifiers=[
-    "programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
   ],
 )
