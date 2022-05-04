@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
   include_package_data = True,
-  name='claculator',
+  name='calculator',
   version='1.0.0',
   description='oss-decv calculator',
   author='jeminmoon',
